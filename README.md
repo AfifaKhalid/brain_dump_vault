@@ -1,6 +1,6 @@
 # Brain Dump Vault
 
-A minimal, aesthetic Flutter app designed to quickly dump thoughts, worries, tasks, and random ideas — without overthinking.
+A minimal, aesthetic Flutter app designed to quickly dump thoughts, worries, tasks, and random ideas, without overthinking.
 
 This app focuses on **mental clarity**, **simplicity**, and a calm user experience.
 
@@ -20,11 +20,6 @@ This app focuses on **mental clarity**, **simplicity**, and a calm user experien
 -  Offline-first (local storage using Hive)  
 -  Search thoughts easily  
 -  Smooth animations and transitions  
-
----
-
-## Screens (Optional)
-*(You can add screenshots here later)*
 
 ---
 

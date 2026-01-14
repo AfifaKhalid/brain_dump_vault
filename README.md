@@ -1,16 +1,52 @@
-# brain_dump_vault
+# Brain Dump Vault
 
-A new Flutter project.
+A minimal, aesthetic Flutter app designed to quickly dump thoughts, worries, tasks, and random ideas — without overthinking.
 
-## Getting Started
+This app focuses on **mental clarity**, **simplicity**, and a calm user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Category-based organization  
+  - Ideas  
+  - Worries  
+  - Tasks (with checklist support)  
+  - Random thoughts  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  Task checklist for the *Tasks* category  
+-  Dynamic timestamps (auto-updating relative time)  
+-  Clean, cozy UI with soft colors  
+-  Offline-first (local storage using Hive)  
+-  Search thoughts easily  
+-  Smooth animations and transitions  
+
+---
+
+## Screens (Optional)
+*(You can add screenshots here later)*
+
+---
+
+## Tech Stack
+
+- **Flutter (Dart)**
+- **Hive** – local NoSQL storage
+- **Material Design**
+- State management using `StatefulWidget`
+
+---
+
+## Data Storage
+
+- All data is stored **locally on the device** using Hive.
+- No internet connection required.
+- Data persists unless the app is uninstalled.
+
+---
+
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AfifaKhalid/brain_dump_vault.git

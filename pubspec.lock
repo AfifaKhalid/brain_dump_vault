@@ -347,3 +347,16 @@ packages:
 sdks:
   dart: ">=3.9.2 <4.0.0"
   flutter: ">=3.35.0"
+
+flutter:
+  assets:
+    - assets/logo.png
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/brain_dump_logo.png"
+  remove_alpha_ios: true

@@ -4,8 +4,6 @@ A minimal, aesthetic Flutter app designed to quickly dump thoughts, worries, tas
 
 This app focuses on **mental clarity**, **simplicity**, and a calm user experience.
 
----
-
 ## Features
 
 - Category-based organization  
@@ -21,8 +19,6 @@ This app focuses on **mental clarity**, **simplicity**, and a calm user experien
 -  Search thoughts easily  
 -  Smooth animations and transitions  
 
----
-
 ## Tech Stack
 
 - **Flutter (Dart)**
@@ -30,15 +26,11 @@ This app focuses on **mental clarity**, **simplicity**, and a calm user experien
 - **Material Design**
 - State management using `StatefulWidget`
 
----
-
 ## Data Storage
 
 - All data is stored **locally on the device** using Hive.
 - No internet connection required.
 - Data persists unless the app is uninstalled.
-
----
 
 ## How to Run the Project
 
